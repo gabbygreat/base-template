@@ -1,3 +1,3 @@
-# skitechat
+# Base Template
 
-A new Flutter project.
+The base template I use for Flutter projects, using the MVC architecture
